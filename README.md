@@ -1,14 +1,12 @@
 ### Hi there, I'm Antony - aka [MilanDroid][website] 👋 
 
-[![Website](https://avatars.githubusercontent.com/u/13650931?v=4)](https://bedev.dev)
-
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with global projects
 - ⚡ Fun fact: I love to draw and play chess
 
 ### Connect with me:
 
-[<img align="left" alt="bedev.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" style="height: 48px; width: 48px" />][website]
+[<img align="left" alt="bedev.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Antony Brenes | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
