@@ -38,3 +38,5 @@
 [website]: https://bedev.dev
 [linkedin]: https://www.linkedin.com/in/antony-brenes/
 
+![MilanDroid's GitHub stats](https://github-readme-stats.vercel.app/api?username=MilanDroid&show_icons=true&theme=radical)
+
