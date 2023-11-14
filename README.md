@@ -40,5 +40,5 @@
 
 ![MilanDroid's GitHub stats](https://github-readme-stats.vercel.app/api?username=MilanDroid&show_icons=true&theme=radical)
 
-[![MilanDroid's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MilanDroid)](https://github.com/MilanDroid/github-readme-stats)
+[![MilanDroid's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MilanDroid&theme=radical)](https://github.com/MilanDroid/github-readme-stats)
 
