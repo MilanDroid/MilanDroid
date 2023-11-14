@@ -36,7 +36,9 @@
 [website]: https://bedev.dev
 [linkedin]: https://www.linkedin.com/in/antony-brenes/
 
-//![MilanDroid's GitHub stats](https://github-readme-stats.vercel.app/api?username=MilanDroid&show_icons=true)
+<div style="dispay: none">
+  ![MilanDroid's GitHub stats](https://github-readme-stats.vercel.app/api?username=MilanDroid&show_icons=true)
+</div>
 
 [![MilanDroid's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MilanDroid)](https://github.com/MilanDroid/github-readme-stats)
 
