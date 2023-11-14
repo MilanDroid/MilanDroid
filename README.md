@@ -1,8 +1,8 @@
 ### Hi there, I'm Antony - aka [MilanDroid][website] 👋 
 
-- 🌱 I’m currently interested to learn Redis and Rust
-- 👯 I’m looking to collaborate with global projects
 - ⚡ My strongest tools are Vue and Laravel
+- - 👯 I’m looking to collaborate with global projects
+- 🌱 I’m currently interested to learn AI and Data Science
 
 ### Connect with me:
 
