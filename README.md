@@ -1,7 +1,7 @@
 ### Hi there, I'm Antony - aka [MilanDroid][website] 👋 
 
 - ⚡ My strongest tools are Vue and Laravel
-- - 👯 I’m looking to collaborate with global projects
+- 👯 I’m looking to collaborate with global projects
 - 🌱 I’m currently interested to learn AI and Data Science
 
 ### Connect with me:
