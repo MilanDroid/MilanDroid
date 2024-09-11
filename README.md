@@ -5,10 +5,7 @@
 - 🌱 I’m currently interested to learn AI and Data Science
 
 ### Connect with me:
-
 [<img align="left" alt="Antony Brenes | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
 
 ### Languages and Tools:
 <div style="display: flex">
