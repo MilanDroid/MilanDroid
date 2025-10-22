@@ -31,5 +31,5 @@
 
 ---
 
-[website]: https://bedev.dev
+[website]: https://milandroid.dev
 [linkedin]: https://www.linkedin.com/in/antony-brenes/
