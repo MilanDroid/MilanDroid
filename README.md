@@ -24,8 +24,7 @@ My own products will ship under **Bedev**.
 - **Languages:** JavaScript, TypeScript, PHP, Python, Swift
 - **Frameworks:** Vue, React, Laravel, Express, Fastify
 - **Data and cloud:** MySQL, Google Cloud
-- **AI:** local models with Ollama, OCR pipelines
-
+- **AI:** OpenAI and Gemini APIs, local models with Ollama, OCR pipelines
 ### Contact
 
 [milandroid.dev](https://milandroid.dev) · [LinkedIn](https://www.linkedin.com/in/antony-brenes/) · [Upwork](https://www.upwork.com/freelancers/~01ba3fa0d17239ee41)
