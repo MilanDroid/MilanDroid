@@ -1,35 +1,29 @@
-### Hi there, I'm Antony - aka [MilanDroid][website] 👋 
+## Hi, I'm Antony Brenes
 
-- ⚡ My strongest tools are Vue and Laravel
-- 🤝 I’m looking to collaborate with global projects
-- 🌱 I’m currently interested to learn AI and Data Science
+Full-stack developer in Honduras. I build web apps, developer tools and data pipelines, mostly with Vue, Laravel, TypeScript and Python. Lately I've been building AI models into real products.
 
-### Connect with me:
-[<img align="left" alt="Antony Brenes | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+I've shipped apps with more than 500K users and automated processes that used to take days down to seconds. Open to working with teams anywhere.
 
-### Languages and Tools:
-<div style="display: flex">
-  <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-  <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
-  <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-  <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-  <img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
-  <img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
-  <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-  <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-  <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-  <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-  <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-  <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-  <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-  <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-  <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-</div>
+### Featured projects
 
-<br />
-<br />
+- **[Elecciones HN 2025](https://github.com/MilanDroid/eleccioneshn2025)**: an independent count of the 2025 Honduras presidential election. A local vision model read the official actas, and every number on the site traces back to the acta it came from. [Live site](https://milandroid.dev/eleccioneshn2025/). *Python, Ollama, React, Express.*
+- **[mftp](https://github.com/MilanDroid/mftp)**: a command-line FTP client with recursive uploads and deletes, and a sync that reports whether each file was uploaded, replaced or skipped. *Python.*
+- **[UIGrid](https://github.com/MilanDroid/uigrid)**: preview any URL on eight device sizes at once, from one command. On npm as [`uigrid-view`](https://www.npmjs.com/package/uigrid-view). *Node.js, Express.*
+- **[Mechanical tension calculator](https://github.com/MilanDroid/mechanical-tension-calculator)**: tensions, safety factors and sags for overhead power line conductors. [Try it](https://milandroid.dev/mechanical-tension-calculator/). *JavaScript.*
 
----
+### Closed source
 
-[website]: https://milandroid.dev
-[linkedin]: https://www.linkedin.com/in/antony-brenes/
+- **[Manyue](https://milandroid.dev/projects/manyue.html)**: photograph a receipt or say one sentence, and it writes the bookkeeping entry. *Vue, TypeScript, Fastify, AI/OCR.*
+- **[Burnedfile](https://milandroid.dev/projects/burnedfile.html)**: self-destructing file sharing over the sender's own Google Drive. *Vue, TypeScript, Fastify.*
+- **[hmon](https://milandroid.dev/projects/hmon.html)**: a macOS menu bar monitor for temperature, CPU, memory, disk and battery. *Swift, SwiftUI.*
+
+### Stack
+
+- **Languages:** JavaScript, TypeScript, PHP, Python, Swift
+- **Frameworks:** Vue, React, Laravel, Express, Fastify
+- **Data and cloud:** MySQL, Google Cloud
+- **AI:** local models with Ollama, OCR pipelines
+
+### Contact
+
+[milandroid.dev](https://milandroid.dev) · [LinkedIn](https://www.linkedin.com/in/antony-brenes/) · [Upwork](https://www.upwork.com/freelancers/~01ba3fa0d17239ee41)
