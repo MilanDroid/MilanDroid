@@ -19,12 +19,19 @@ My own products will ship under **Bedev**.
 - **[Manyue](https://milandroid.dev/projects/manyue.html)**: photograph a receipt or say one sentence, and it writes the bookkeeping entry. *Vue, TypeScript, Fastify, AI/OCR.*
 - **[Burnedfile](https://milandroid.dev/projects/burnedfile.html)**: self-destructing file sharing over the sender's own Google Drive. *Vue, TypeScript, Fastify.*
 
+### At AutoSync
+
+- **Visualizer for online stores**: an embeddable tool where shoppers pick their vehicle and see wheels and tires on it before asking for a quote. I'm building its next version. *Vue, TypeScript, Pinia.*
+- **Rendering library**: draws wheels and tires onto a vehicle photo from three angles, with paint color, suspension lift and accessories. *Svelte, TypeScript, Canvas.*
+- **Internal admin panel**: where the team manages vehicles, fitments, products and retailers. I added AI-written accessory descriptions that staff can edit in the panel. *Laravel, Livewire.*
+
 ### Stack
 
 - **Languages:** JavaScript, TypeScript, PHP, Python, Swift
 - **Frameworks:** Vue, React, Laravel, Express, Fastify
 - **Data and cloud:** MySQL, Google Cloud
 - **AI:** OpenAI and Gemini APIs, local models with Ollama, OCR pipelines
+
 ### Contact
 
 [milandroid.dev](https://milandroid.dev) · [LinkedIn](https://www.linkedin.com/in/antony-brenes/) · [Upwork](https://www.upwork.com/freelancers/~01ba3fa0d17239ee41)
