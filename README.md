@@ -28,7 +28,7 @@ My own products will ship under **Bedev**.
 ### Stack
 
 - **Languages:** JavaScript, TypeScript, PHP, Python, Swift
-- **Frameworks:** Vue, React, Laravel, Express, Fastify
+- **Frameworks:** Vue, React, Svelte, Laravel, Express, Fastify
 - **Data and cloud:** MySQL, Google Cloud
 - **AI:** OpenAI and Gemini APIs, local models with Ollama, OCR pipelines
 
