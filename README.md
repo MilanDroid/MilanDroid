@@ -1,6 +1,6 @@
 ## Hi, I'm Antony Brenes
 
-Full-stack developer in Honduras, currently at AutoSync Corp. I build web apps, developer tools and data pipelines, mostly with Vue, Laravel, TypeScript and Python. Lately I've been building AI models into real products.
+Full-stack developer, I build web apps, developer tools and data pipelines, mostly with Vue, Laravel, TypeScript and Python. Lately I've been building AI models into real products.
 
 I've shipped apps with more than 500K users and automated processes that used to take days down to seconds.
 
